@@ -1,4 +1,4 @@
-ParseFacebookSDKWrapper
+DEPRECATED
 =======================
 
 Forget about PF_*
